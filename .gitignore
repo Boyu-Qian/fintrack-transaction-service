@@ -1,0 +1,4 @@
+transaction-service.tar
+.venv/
+public.pem
+.env
